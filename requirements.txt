@@ -1,6 +1,1 @@
 streamlit
-google.generativeai
-base64
-requests
-Image
-langchain
